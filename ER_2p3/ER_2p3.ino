@@ -1,7 +1,7 @@
 //******************************************************//
 //****** VERSIONE 2.3 -  COMPATIBILITÀ CON HARDWARE AGGIORNATI//
 //******************************************************//
-
+// UPDATE 1: aggiunte variabili di comportamento
 
 
 #include <Servo.h>
